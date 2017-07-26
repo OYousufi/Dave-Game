@@ -1,0 +1,1242 @@
+# depslib dependency file v1.0
+1481212430 source:c:\users\salman\desktop\ma01912\oop\project\bullet.cpp
+	"bullet.h"
+
+1481212431 c:\users\salman\desktop\ma01912\oop\project\bullet.h
+	"unit.h"
+
+1481181557 c:\users\salman\desktop\ma01912\oop\project\unit.h
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+	"SDL.h"
+	<iostream>
+
+1480307212 c:\users\salman\desktop\ma01912\oop\project\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\close_code.h
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\salman\desktop\ma01912\oop\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\users\salman\desktop\ma01912\oop\project\sdl2_image-devel-2.0.1-mingw\sdl2_image-2.0.1\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1480253726 c:\users\salman\desktop\ma01912\oop\project\point.h
+
+1481179607 source:c:\users\salman\desktop\ma01912\oop\project\button.cpp
+	"Button.h"
+	"Character.h"
+	"Point.h"
+	"String.h"
+	<iostream>
+
+1481179592 c:\users\salman\desktop\ma01912\oop\project\button.h
+	"Character.h"
+	"Point.h"
+	"String.h"
+	<iostream>
+	"Button_Pos.h"
+	"SDL.h"
+
+1481179420 c:\users\salman\desktop\ma01912\oop\project\character.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+
+1479586306 c:\users\salman\desktop\ma01912\oop\project\string.h
+	"Character.h"
+	"Point.h"
+	<iostream>
+
+1479638248 c:\users\salman\desktop\ma01912\oop\project\button_pos.h
+
+1481184191 source:c:\users\salman\desktop\ma01912\oop\project\character.cpp
+	"Character.h"
+	"Point.h"
+	<iostream>
+
+1481180953 source:c:\users\salman\desktop\ma01912\oop\project\enemy.cpp
+	"Enemy.h"
+
+1481047757 c:\users\salman\desktop\ma01912\oop\project\enemy.h
+	"unit.h"
+
+1481194699 source:c:\users\salman\desktop\ma01912\oop\project\enemy1.cpp
+	"Enemy1.h"
+	"player.h"
+	"bullet.h"
+
+1481047757 c:\users\salman\desktop\ma01912\oop\project\enemy1.h
+	"unit.h"
+	"bullet.h"
+
+1481211150 source:c:\users\salman\desktop\ma01912\oop\project\ltexture.cpp
+	"LTexture.h"
+
+1481189358 source:c:\users\salman\desktop\ma01912\oop\project\main.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<string>
+	"unit.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"LTexture.h"
+	"player.h"
+	"Enemy.h"
+	"Enemy1.h"
+	"bullet.h"
+	"Queue1.h"
+	"String.h"
+	"Character.h"
+	"Button.h"
+	"Button_Pos.h"
+	"MainMenu.h"
+	"MenuBackGround.h"
+	"Flashscreen.h"
+	"IngameMenu.h"
+	"gamescreen.h"
+	"Item.h"
+	"Enemy1Bullet.h"
+	"Enemy02Bullet.h"
+	"fileIO.h"
+
+1481047894 c:\users\salman\desktop\ma01912\oop\project\player.h
+	"Point.h"
+	"LTexture.h"
+	"unit.h"
+
+1481176210 c:\users\salman\desktop\ma01912\oop\project\queue1.h
+	"Node.h"
+	"gamescreen.h"
+
+1480306632 c:\users\salman\desktop\ma01912\oop\project\node.h
+	"unit.h"
+
+1481179936 c:\users\salman\desktop\ma01912\oop\project\mainmenu.h
+	"SDL.h"
+	"Button.h"
+	"Button_Pos.h"
+	"SDL_image.h"
+	<iostream>
+
+1481179974 c:\users\salman\desktop\ma01912\oop\project\menubackground.h
+	"string.h"
+	"SDL.h"
+	"SDL_image.h"
+
+1481179672 source:c:\users\salman\desktop\ma01912\oop\project\mainmenu.cpp
+	"MainMenu.h"
+
+1481179986 source:c:\users\salman\desktop\ma01912\oop\project\menubackground.cpp
+	"MenuBackGround.h"
+
+1481120019 source:c:\users\salman\desktop\ma01912\oop\project\player.cpp
+	"player.h"
+
+1481212666 source:c:\users\salman\desktop\ma01912\oop\project\queue1.cpp
+	"Queue1.h"
+	<iostream>
+
+1481179497 source:c:\users\salman\desktop\ma01912\oop\project\string.cpp
+	"Character.h"
+	"Point.h"
+	"String.h"
+	<iostream>
+
+1481201095 source:c:\users\salman\desktop\ma01912\oop\project\enemy1bullet.cpp
+	"Enemy1Bullet.h"
+
+1481047757 c:\users\salman\desktop\ma01912\oop\project\enemy1bullet.h
+	"Unit.h"
+
+1481184191 source:c:\users\salman\desktop\ma01912\oop\project\item.cpp
+	"item.h"
+
+1480947603 c:\users\salman\desktop\ma01912\oop\project\item.h
+	"unit.h"
+
+1479585842 source:c:\users\salman\desktop\ma01912\oop\project\button.cppp.c
+
+1481191959 source:c:\users\salman\desktop\ma01912\oop\project\flashscreen.cpp
+	"Flashscreen.h"
+
+1481179809 c:\users\salman\desktop\ma01912\oop\project\flashscreen.h
+	"string.h"
+	"SDL.h"
+	"SDL_image.h"
+
+1481181557 source:c:\users\salman\desktop\ma01912\oop\project\gamescreen.cpp
+	"gamescreen.h"
+
+1481121529 c:\users\salman\desktop\ma01912\oop\project\gamescreen.h
+	"string.h"
+	"SDL.h"
+	"SDL_image.h"
+	"LTexture.h"
+
+1481179744 source:c:\users\salman\desktop\ma01912\oop\project\ingamemenu.cpp
+	"IngameMenu.h"
+
+1481179730 c:\users\salman\desktop\ma01912\oop\project\ingamemenu.h
+	"SDL.h"
+	"Button.h"
+	"Button_Pos.h"
+	"SDL_image.h"
+	<iostream>
+
+1481184191 source:c:\users\salman\desktop\ma01912\oop\project\enemy02bullet.cpp
+	"Enemy02Bullet.h"
+
+1481047757 c:\users\salman\desktop\ma01912\oop\project\enemy02bullet.h
+	"unit.h"
+
+1480856702 source:f:\khubaib\salman\project\bullet.cpp
+	"bullet.h"
+
+1480841212 f:\khubaib\salman\project\bullet.h
+	"unit.h"
+
+1480856702 f:\khubaib\salman\project\unit.h
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+	"SDL.h"
+	<iostream>
+
+1480307212 f:\khubaib\salman\project\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1480253726 f:\khubaib\salman\project\point.h
+
+1479638898 source:f:\khubaib\salman\project\button.cpp
+	"Button.h"
+	"Character.h"
+	"Point.h"
+	"String.h"
+	<iostream>
+
+1479666766 f:\khubaib\salman\project\button.h
+	"Character.h"
+	"Point.h"
+	"String.h"
+	<iostream>
+	"Button_Pos.h"
+	"SDL.h"
+
+1479819022 f:\khubaib\salman\project\character.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+
+1479586306 f:\khubaib\salman\project\string.h
+	"Character.h"
+	"Point.h"
+	<iostream>
+
+1479638248 f:\khubaib\salman\project\button_pos.h
+
+1479327260 source:f:\khubaib\salman\project\character.cpp
+	"Character.h"
+	"Point.h"
+	<iostream>
+
+1480859104 source:f:\khubaib\salman\project\enemy.cpp
+	"Enemy.h"
+
+1480859104 f:\khubaib\salman\project\enemy.h
+	"unit.h"
+
+1480840414 source:f:\khubaib\salman\project\enemy02bullet.cpp
+	"Enemy02Bullet.h"
+
+1480841146 f:\khubaib\salman\project\enemy02bullet.h
+	"unit.h"
+
+1480859104 source:f:\khubaib\salman\project\enemy1.cpp
+	"Enemy1.h"
+	"player.h"
+	"bullet.h"
+
+1480841146 f:\khubaib\salman\project\enemy1.h
+	"unit.h"
+	"bullet.h"
+
+1480841144 f:\khubaib\salman\project\player.h
+	"Point.h"
+	"LTexture.h"
+	"unit.h"
+
+1480838680 source:f:\khubaib\salman\project\enemy1bullet.cpp
+	"Enemy1Bullet.h"
+
+1480841146 f:\khubaib\salman\project\enemy1bullet.h
+	"Unit.h"
+
+1480746962 source:f:\khubaib\salman\project\flashscreen.cpp
+	"Flashscreen.h"
+
+1480256640 f:\khubaib\salman\project\flashscreen.h
+	"string.h"
+	"SDL.h"
+	"SDL_image.h"
+
+1480252438 source:f:\khubaib\salman\project\gamescreen.cpp
+	"gamescreen.h"
+
+1480252392 f:\khubaib\salman\project\gamescreen.h
+	"string.h"
+	"SDL.h"
+	"SDL_image.h"
+
+1480254042 source:f:\khubaib\salman\project\ingamemenu.cpp
+	"IngameMenu.h"
+
+1480254008 f:\khubaib\salman\project\ingamemenu.h
+	"SDL.h"
+	"Button.h"
+	"Button_Pos.h"
+	"SDL_image.h"
+	<iostream>
+
+1480223508 source:f:\khubaib\salman\project\item.cpp
+	"item.h"
+
+1480841146 f:\khubaib\salman\project\item.h
+	"unit.h"
+
+1480607122 source:f:\khubaib\salman\project\ltexture.cpp
+	"LTexture.h"
+
+1480855840 source:f:\khubaib\salman\project\main.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<string>
+	"unit.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"LTexture.h"
+	"player.h"
+	"Enemy.h"
+	"Enemy1.h"
+	"bullet.h"
+	"Queue1.h"
+	"String.h"
+	"Character.h"
+	"Button.h"
+	"Button_Pos.h"
+	"MainMenu.h"
+	"MenuBackGround.h"
+	"Flashscreen.h"
+	"IngameMenu.h"
+	"gamescreen.h"
+	"Item.h"
+	"Enemy1Bullet.h"
+	"Enemy02Bullet.h"
+
+1480851774 f:\khubaib\salman\project\queue1.h
+	"Node.h"
+
+1480306632 f:\khubaib\salman\project\node.h
+	"unit.h"
+
+1480605946 f:\khubaib\salman\project\mainmenu.h
+	"SDL.h"
+	"Button.h"
+	"Button_Pos.h"
+	"SDL_image.h"
+	<iostream>
+
+1479669394 f:\khubaib\salman\project\menubackground.h
+	"string.h"
+	"SDL.h"
+	"SDL_image.h"
+
+1480253412 source:f:\khubaib\salman\project\mainmenu.cpp
+	"MainMenu.h"
+
+1479669406 source:f:\khubaib\salman\project\menubackground.cpp
+	"MenuBackGround.h"
+
+1480614448 source:f:\khubaib\salman\project\player.cpp
+	"player.h"
+
+1480858984 source:f:\khubaib\salman\project\queue1.cpp
+	"Queue1.h"
+	<iostream>
+
+1479840160 source:f:\khubaib\salman\project\string.cpp
+	"Character.h"
+	"Point.h"
+	"String.h"
+	<iostream>
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\close_code.h
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 f:\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800374 f:\sdl2_image-2.0.1\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1480856702 source:c:\users\salman\desktop\ma01912\oop\project(oop)\project\bullet.cpp
+	"bullet.h"
+
+1480841212 c:\users\salman\desktop\ma01912\oop\project(oop)\project\bullet.h
+	"unit.h"
+
+1480856702 c:\users\salman\desktop\ma01912\oop\project(oop)\project\unit.h
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+	"SDL.h"
+	<iostream>
+
+1480307212 c:\users\salman\desktop\ma01912\oop\project(oop)\project\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1480253726 c:\users\salman\desktop\ma01912\oop\project(oop)\project\point.h
+
+1479638898 source:c:\users\salman\desktop\ma01912\oop\project(oop)\project\button.cpp
+	"Button.h"
+	"Character.h"
+	"Point.h"
+	"String.h"
+	<iostream>
+
+1479666766 c:\users\salman\desktop\ma01912\oop\project(oop)\project\button.h
+	"Character.h"
+	"Point.h"
+	"String.h"
+	<iostream>
+	"Button_Pos.h"
+	"SDL.h"
+
+1479819022 c:\users\salman\desktop\ma01912\oop\project(oop)\project\character.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+
+1479586306 c:\users\salman\desktop\ma01912\oop\project(oop)\project\string.h
+	"Character.h"
+	"Point.h"
+	<iostream>
+
+1479638248 c:\users\salman\desktop\ma01912\oop\project(oop)\project\button_pos.h
+
+1479327260 source:c:\users\salman\desktop\ma01912\oop\project(oop)\project\character.cpp
+	"Character.h"
+	"Point.h"
+	<iostream>
+
+1480859104 source:c:\users\salman\desktop\ma01912\oop\project(oop)\project\enemy.cpp
+	"Enemy.h"
+
+1480859104 c:\users\salman\desktop\ma01912\oop\project(oop)\project\enemy.h
+	"unit.h"
+
+1480840414 source:c:\users\salman\desktop\ma01912\oop\project(oop)\project\enemy02bullet.cpp
+	"Enemy02Bullet.h"
+
+1480841146 c:\users\salman\desktop\ma01912\oop\project(oop)\project\enemy02bullet.h
+	"unit.h"
+
+1480838680 source:c:\users\salman\desktop\ma01912\oop\project(oop)\project\enemy1bullet.cpp
+	"Enemy1Bullet.h"
+
+1480841146 c:\users\salman\desktop\ma01912\oop\project(oop)\project\enemy1bullet.h
+	"Unit.h"
+
+1480746962 source:c:\users\salman\desktop\ma01912\oop\project(oop)\project\flashscreen.cpp
+	"Flashscreen.h"
+
+1480256640 c:\users\salman\desktop\ma01912\oop\project(oop)\project\flashscreen.h
+	"string.h"
+	"SDL.h"
+	"SDL_image.h"
+
+1480252438 source:c:\users\salman\desktop\ma01912\oop\project(oop)\project\gamescreen.cpp
+	"gamescreen.h"
+
+1480252392 c:\users\salman\desktop\ma01912\oop\project(oop)\project\gamescreen.h
+	"string.h"
+	"SDL.h"
+	"SDL_image.h"
+
+1480254042 source:c:\users\salman\desktop\ma01912\oop\project(oop)\project\ingamemenu.cpp
+	"IngameMenu.h"
+
+1480254008 c:\users\salman\desktop\ma01912\oop\project(oop)\project\ingamemenu.h
+	"SDL.h"
+	"Button.h"
+	"Button_Pos.h"
+	"SDL_image.h"
+	<iostream>
+
+1480223508 source:c:\users\salman\desktop\ma01912\oop\project(oop)\project\item.cpp
+	"item.h"
+
+1480841146 c:\users\salman\desktop\ma01912\oop\project(oop)\project\item.h
+	"unit.h"
+
+1480607122 source:c:\users\salman\desktop\ma01912\oop\project(oop)\project\ltexture.cpp
+	"LTexture.h"
+
+1480855840 source:c:\users\salman\desktop\ma01912\oop\project(oop)\project\main.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<string>
+	"unit.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"LTexture.h"
+	"player.h"
+	"Enemy.h"
+	"Enemy1.h"
+	"bullet.h"
+	"Queue1.h"
+	"String.h"
+	"Character.h"
+	"Button.h"
+	"Button_Pos.h"
+	"MainMenu.h"
+	"MenuBackGround.h"
+	"Flashscreen.h"
+	"IngameMenu.h"
+	"gamescreen.h"
+	"Item.h"
+	"Enemy1Bullet.h"
+	"Enemy02Bullet.h"
+
+1480841144 c:\users\salman\desktop\ma01912\oop\project(oop)\project\player.h
+	"Point.h"
+	"LTexture.h"
+	"unit.h"
+
+1480841146 c:\users\salman\desktop\ma01912\oop\project(oop)\project\enemy1.h
+	"unit.h"
+	"bullet.h"
+
+1480851774 c:\users\salman\desktop\ma01912\oop\project(oop)\project\queue1.h
+	"Node.h"
+
+1480306632 c:\users\salman\desktop\ma01912\oop\project(oop)\project\node.h
+	"unit.h"
+
+1480605946 c:\users\salman\desktop\ma01912\oop\project(oop)\project\mainmenu.h
+	"SDL.h"
+	"Button.h"
+	"Button_Pos.h"
+	"SDL_image.h"
+	<iostream>
+
+1479669394 c:\users\salman\desktop\ma01912\oop\project(oop)\project\menubackground.h
+	"string.h"
+	"SDL.h"
+	"SDL_image.h"
+
+1480253412 source:c:\users\salman\desktop\ma01912\oop\project(oop)\project\mainmenu.cpp
+	"MainMenu.h"
+
+1479669406 source:c:\users\salman\desktop\ma01912\oop\project(oop)\project\menubackground.cpp
+	"MenuBackGround.h"
+
+1480614448 source:c:\users\salman\desktop\ma01912\oop\project(oop)\project\player.cpp
+	"player.h"
+
+1479840160 source:c:\users\salman\desktop\ma01912\oop\project(oop)\project\string.cpp
+	"Character.h"
+	"Point.h"
+	"String.h"
+	<iostream>
+
+1451800373 c:\users\salman\desktop\ma01912\oop\sdl2_image-devel-2.0.1-mingw.tar\sdl2_image-devel-2.0.1-mingw\sdl2_image-2.0.1\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1480879333 source:c:\users\salman\desktop\ma01912\oop\project\fileio.cpp
+	"fileIO.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"LTexture.h"
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1480879333 c:\users\salman\desktop\ma01912\oop\project\fileio.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"LTexture.h"
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
